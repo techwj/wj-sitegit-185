@@ -1,0 +1,59 @@
+{
+  "siteId": "next-destination-wishlist",
+  "generatedAt": "2026-06-04T11:33:49.527455",
+  "categories": [
+    "beginner-next-destination-wishlist",
+    "advanced-next-destination-wishlist",
+    "tips-next-destination-wishlist",
+    "history-next-destination-wishlist",
+    "trending-next-destination-wishlist",
+    "tutorials-next-destination-wishlist"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-next-destination-wishlist",
+      "category_name": "Beginner Next Destination Wishlist"
+    },
+    {
+      "category_slug": "advanced-next-destination-wishlist",
+      "category_name": "Advanced Next Destination Wishlist"
+    },
+    {
+      "category_slug": "tips-next-destination-wishlist",
+      "category_name": "Next Destination Wishlist Tips"
+    },
+    {
+      "category_slug": "history-next-destination-wishlist",
+      "category_name": "Next Destination Wishlist History"
+    },
+    {
+      "category_slug": "trending-next-destination-wishlist",
+      "category_name": "Trending Next Destination Wishlist"
+    },
+    {
+      "category_slug": "tutorials-next-destination-wishlist",
+      "category_name": "Next Destination Wishlist Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "next-destination-wishlist",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Next Destination Wishlist Central",
+    "articles_per_row": 4
+  }
+}

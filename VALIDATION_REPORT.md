@@ -1,0 +1,88 @@
+# Validation Report - next-destination-wishlist
+
+Generated: 2026-06-04T11:33:49.527107
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Next Destination Wishlist
+- ✓ Article word count OK: Beginner Next Destination Wishlist: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Next Destination Wishlist
+- ✓ Article word count OK: Beginner Next Destination Wishlist Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Next Destination Wishlist
+- ✓ Article word count OK: Beginner Next Destination Wishlist in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Next Destination Wishlist
+- ✓ Article word count OK: Common Mistakes in Beginner Next Destination Wishlist
+- ✓ Article word count OK: Beginner Next Destination Wishlist for Beginners
+- ✓ Article word count OK: Advanced Beginner Next Destination Wishlist Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Next Destination Wishlist
+- ✓ Article word count OK: Advanced Next Destination Wishlist: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Next Destination Wishlist
+- ✓ Article word count OK: Advanced Next Destination Wishlist Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Next Destination Wishlist
+- ✓ Article word count OK: Advanced Next Destination Wishlist in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Next Destination Wishlist
+- ✓ Article word count OK: Common Mistakes in Advanced Next Destination Wishlist
+- ✓ Article word count OK: Advanced Next Destination Wishlist for Beginners
+- ✓ Article word count OK: Advanced Advanced Next Destination Wishlist Techniques
+- ✓ Article word count OK: The Ultimate Guide to Next Destination Wishlist Tips
+- ✓ Article word count OK: Next Destination Wishlist Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Next Destination Wishlist Tips
+- ✓ Article word count OK: Next Destination Wishlist Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Next Destination Wishlist Tips
+- ✓ Article word count OK: Next Destination Wishlist Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Next Destination Wishlist Tips
+- ✓ Article word count OK: Common Mistakes in Next Destination Wishlist Tips
+- ✓ Article word count OK: Next Destination Wishlist Tips for Beginners
+- ✓ Article word count OK: Advanced Next Destination Wishlist Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Next Destination Wishlist History
+- ✓ Article word count OK: Next Destination Wishlist History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Next Destination Wishlist History
+- ✓ Article word count OK: Next Destination Wishlist History Tips and Best Practices
+- ✓ Article word count OK: The History of Next Destination Wishlist History
+- ✓ Article word count OK: Next Destination Wishlist History in 2026: Current Trends
+- ✓ Article word count OK: Future of Next Destination Wishlist History
+- ✓ Article word count OK: Common Mistakes in Next Destination Wishlist History
+- ✓ Article word count OK: Next Destination Wishlist History for Beginners
+- ✓ Article word count OK: Advanced Next Destination Wishlist History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Next Destination Wishlist
+- ✓ Article word count OK: Trending Next Destination Wishlist: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Next Destination Wishlist
+- ✓ Article word count OK: Trending Next Destination Wishlist Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Next Destination Wishlist
+- ✓ Article word count OK: Trending Next Destination Wishlist in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Next Destination Wishlist
+- ✓ Article word count OK: Common Mistakes in Trending Next Destination Wishlist
+- ✓ Article word count OK: Trending Next Destination Wishlist for Beginners
+- ✓ Article word count OK: Advanced Trending Next Destination Wishlist Techniques
+- ✓ Article word count OK: The Ultimate Guide to Next Destination Wishlist Tutorials
+- ✓ Article word count OK: Next Destination Wishlist Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Next Destination Wishlist Tutorials
+- ✓ Article word count OK: Next Destination Wishlist Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Next Destination Wishlist Tutorials
+- ✓ Article word count OK: Next Destination Wishlist Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Next Destination Wishlist Tutorials
+- ✓ Article word count OK: Common Mistakes in Next Destination Wishlist Tutorials
+- ✓ Article word count OK: Next Destination Wishlist Tutorials for Beginners
+- ✓ Article word count OK: Advanced Next Destination Wishlist Tutorials Techniques
+- ✓ Ad configuration validated
